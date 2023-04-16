@@ -1,10 +1,10 @@
-## Hello world!
+# Welcome here! :man_technologist:
 <p> My name is Helder Cambuta, I'm <strong>Web Developer</strong> and <strong>UI Designer</strong> <p>
 <p> I am currently studying Front-end technologies and UI/UX Design </p>
 
 <br />
-<br />
 
+## :weight_lifting_man: Github Stats
 <div>
   <a href="https://github.com/nangazaki">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=nangazaki&show_icons=true&bg_color=00000000" />
@@ -17,6 +17,7 @@
 <br />
 <br />
 
+## :hammer_and_wrench: Languages and Tools
 <div>
   <a href="#">
     <img src="https://skillicons.dev/icons?i=js" />
