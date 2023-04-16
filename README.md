@@ -2,6 +2,9 @@
 <p> My name is Helder Cambuta, I'm <strong>Web Developer</strong> and <strong>UI Designer</strong> <p>
 <p> I am currently studying Front-end technologies and UI/UX Design </p>
 
+<br />
+<br />
+
 <div>
   <a href="https://github.com/nangazaki">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=nangazaki&show_icons=true&bg_color=00000000" />
@@ -11,8 +14,10 @@
   </a>
 </div>
 
+<br />
+<br />
 
-<div align="center">
+<div>
   <a href="#">
     <img src="https://skillicons.dev/icons?i=js" />
   </a>
@@ -60,6 +65,7 @@
   </a>
 </div>
 
+<br />
 
 <!--
 **heldercambuta/heldercambuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
