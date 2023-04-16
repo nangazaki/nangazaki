@@ -3,14 +3,13 @@
 <p> I am currently studying Front-end technologies and UI/UX Design </p>
 
 <div>
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nangazaki&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nangazaki&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github-readme-stats.vercel.app/api?username=nangazaki&show_icons=true&bg_color=00000000)" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat](https://github-readme-stats.vercel.app/api/top-langs/?username=nangazaki&langs_count=10&layout=compact&bg_color=00000000)" />
+  </a>
 </div>
-
-
 
 
 <div align="center">
@@ -51,7 +50,7 @@
     <img src="https://skillicons.dev/icons?i=sass" />
   </a>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=node" />
+    <img src="https://skillicons.dev/icons?i=nodejs" />
   </a>
   <a href="#">
     <img src="https://skillicons.dev/icons?i=mongodb" />
